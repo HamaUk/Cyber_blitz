@@ -1,6 +1,6 @@
 # Cyber Blitz - Advanced Web Vulnerability Scanner
 
-![Cyber Blitz Logo]([https://via.placeholder.com/150](https://static.wikia.nocookie.net/cybernations/images/b/bd/JaegarFamily.png/revision/latest?cb=20110115010616)) 
+([https://via.placeholder.com/150](https://static.wikia.nocookie.net/cybernations/images/b/bd/JaegarFamily.png/revision/latest?cb=20110115010616)) 
 
 Cyber Blitz is a powerful, comprehensive web vulnerability scanner designed to identify security issues in web applications. With a modern UI inspired by professional security tools like Burp Suite, it provides a complete suite of scanning capabilities for security professionals and developers.
 
